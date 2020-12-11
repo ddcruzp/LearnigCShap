@@ -7,13 +7,13 @@ namespace Prueba
     {   
         static void Main (string [] args) 
         {
-            StopWatch.crono = new StopWatch();
+            Stopwatch crono = new Stopwatch();
             Console.WriteLine("Hello, write your name pleace:");
             crono.Start();
             string nombre = Console.ReadLine();
-            crono.stop();
+            crono.Stop();
             Console.WriteLine("Hello" + nombre + "wellcome");
-            Console.WriteLine("te has demorado en teclear tu nombre" + crono.Elapsedmilliseconds + "ms.");
+            Console.WriteLine("te has demorado en teclear tu nombre" + crono.ElapsedMilliseconds + "ms.");
         }
     }
 }
