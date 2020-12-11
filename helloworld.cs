@@ -4,9 +4,11 @@ namespace Prueba
 {
     class Program
     {   
-        Console.WriteLine("Hello World");
-        string nombre = Console.ReadLine();
-        Console.WriteLine("Hello"+nombe+".Bienvenido");
+        static void Main (string [] argv) 
+        {
+            Console.WriteLine("Hello World");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("Hello " +nombre +".Bienvenido");
+        }
     }
-    
 }
