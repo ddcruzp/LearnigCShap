@@ -1,0 +1,16 @@
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.csprojAssemblyReference.cache
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.AssemblyInfoInputs.cache
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.AssemblyInfo.cs
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.csproj.CoreCompileInputs.cache
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap.deps.json
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap.runtimeconfig.json
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap.runtimeconfig.dev.json
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap.dll
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/ref/LearnigCShap.dll
+/home/david/Desktop/Projets/LearnigCShap/bin/Debug/net5.0/LearnigCShap.pdb
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.dll
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/ref/LearnigCShap.dll
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.pdb
+/home/david/Desktop/Projets/LearnigCShap/obj/Debug/net5.0/LearnigCShap.genruntimeconfig.cache
